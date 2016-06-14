@@ -1,0 +1,168 @@
+
+html{
+	margin:0;
+	padding:0;
+}
+
+.div_main{
+    background: none repeat scroll 0 0 #FBE7CE;
+    padding: 5px;
+    margin: 0 5px;
+    display: block;
+}
+
+.div_peli {
+    background: #ffffff;
+    box-shadow: 0 7px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 47.2%;
+    padding: 10px 10px;
+    margin: 10px 11px;
+    vertical-align: top;
+    height: 260px;   
+}
+
+.div_peli img{
+  background-color: #D3D2D0;
+}
+
+.div_peli h5{
+  text-decoration: underline;
+}
+
+.div_peli{
+  font-size: 11px;
+}
+
+
+
+
+
+
+
+.category_principal{
+	  background: none repeat scroll 0 0 #ffffff;
+    padding: 5px;
+    margin: 0 5px;
+    display: block;
+}
+
+.div_category {
+    background: #ffffff;
+    display: inline-block;
+    width: 98%;
+    padding: 10px 10px;
+    margin: 10px 8px;
+    vertical-align: top;
+    height: 100%;   
+}
+
+.imagen666:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+
+.titulo_noticia{
+  color:green;
+  font-size:1.5em;
+}
+
+
+.titulo_noticia:hover{
+  color:#CA8307;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.descripcion{
+  padding: 15px 0px;
+}
+
+.movie_news{
+  padding: 20px 0px;
+  font-size:25px;
+  color:#EB9605;
+}
+
+#fecha_publicacion_noticia{
+  font-size: 9px;
+  color: #202292;
+  width: 100%;
+}
+
+#wrapper_menu .menu > li > ul > li a:hover span{
+  border: 1.5px solid orange;
+}
+
+#video{
+  left:200px;
+}
+
+
+
+
+#sign-up{
+	margin-top: 1px;
+	margin-bottom: 200px;
+}
+
+.height{
+	height: 514px;
+}
+
+.coloramarillo{
+	background-color: #0ABCC6;
+	color: white;
+}
+
+.aparece{
+	display: block;
+}
+
+#nombre_actor{
+  width: 650px;
+}
+
+#year_pelicula{
+  width: 120px;
+}
+
+#fechanac_actor{
+  width: 650px;
+}
+
+#pais_actor{
+  width: 650px;
+}
+
+#biografia2{
+  width: 650px;
+  height: 300px;
+}
+
+#award_id{
+	width: 75%;
+}
+
+.ancho{
+	width: 500px;
+}
+
+.ancho_year{
+	width: 100px;
+}
+
+.breadcrumbs {
+    list-style: none;
+    overflow: hidden;
+}
+
+.breadcrumbs li {
+    float: left;
+}
+
+#rating_pelicula{
+	width: 10%;
+}
+

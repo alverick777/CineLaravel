@@ -1,0 +1,104 @@
+   
+
+#fecha_created{
+  margin-right: 10px;
+  margin-top: 5px;
+  color: #168B07;
+}
+
+#fecha_created:hover{
+  color: #1DAD0A;
+}   
+
+.center{
+  float: right;
+  font-size: 13px;
+  margin-right: 13px;
+}
+
+.bg-white{
+  background-color: white;  
+  display: block;
+  width: 95.5%;
+  margin-left: 20px;
+  height: 40px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#caja_busque{
+  margin-right: 10px;
+}
+
+.bg-aside{
+   background-color: white;  
+   display: block;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   width: 200px;   
+}
+
+.bg-aside aside{
+  margin-left: 7px;
+  padding-top: 5px;
+}
+
+#ratin{
+  font-size: 13.5px;  
+  margin-top: 2px;
+}
+
+#ratin span{
+  position: relative;
+  top: 2px;
+}
+
+
+#search_peli {
+  display: block;
+  margin: 0;
+  width: 150px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;  
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: none;
+  -moz-border-radius: none;
+  -ms-border-radius: none;
+  -o-border-radius: none;
+  border-radius: none;
+}
+
+#search_peli:focus {
+  outline: none;
+}
+
+#search_peli {
+  padding: 5px;
+  border: solid 1px green;
+  -webkit-transition: box-shadow 0.3s, border 0.3s;
+  -moz-transition: box-shadow 0.3s, border 0.3s;
+  -o-transition: box-shadow 0.3s, border 0.3s;
+  transition: box-shadow 0.3s, border 0.3s;
+}
+
+#search_peli:focus, #search_peli.focus {
+  border: solid 1px #707070;
+  -webkit-box-shadow: 0 0 5px 1px green;
+  -moz-box-shadow: 0 0 5px 1px green;
+  box-shadow: 0 0 5px 1px green;
+}
+
+.imagen666:hover{
+  opacity: 0.9;
+  cursor: pointer;
+ }
+
+.titulo_pelicula:hover{
+  color:green;
+  cursor: pointer;
+  text-decoration: underline;
+}
+

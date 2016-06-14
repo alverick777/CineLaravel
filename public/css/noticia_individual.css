@@ -1,0 +1,31 @@
+
+	
+    .topp{
+		margin-top: 20px;
+	}
+
+	#titulo_pagina{		
+		font-size:30px;
+		color: #B51313;	
+		margin-bottom: 15px;
+		max-width: 95%;	
+	}
+
+	#fecha_noticia{
+		font-size: 11px;
+		color: gray;			
+	}
+
+	#imagen{
+		opacity: 1;
+	}
+
+	#imagen:hover{
+		opacity: 0.9;
+		cursor: pointer;
+	}
+
+	#descripcion_noticia{
+		padding: 0px 10px 15px 0px;
+		max-width: 92%;
+	}

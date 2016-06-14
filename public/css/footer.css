@@ -1,0 +1,26 @@
+/* Footer */
+ footer{
+  font-family: arial;
+  background-color: #222;  
+  color: #ffffff;
+  height: 100%;
+  margin-top: 150px;
+}
+
+#copyright{
+  font-size: 10px;
+}
+
+#browsers{
+  font-size: 9px;
+}
+
+#imagenes-soc-pie, #browsers,#copyright{
+  margin: 10px auto;
+}
+
+.icon-soc:hover{
+  opacity: 0.8;
+}
+
+/* fin Footer */

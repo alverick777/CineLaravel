@@ -1,0 +1,41 @@
+
+
+/* ==========================================================================
+   Login Box styles
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
+
+#logo{
+	min-height: 200px;
+	max-height: 200px;
+	margin-top: 35px;
+}
+
+.font-oswald{
+	font-family:'Oswald', sans-serif;
+}
+
+.login-links{
+	text-align: left;
+}
+.login-links a{
+	color: #6c6c6c; 
+	display:inline-block;
+	padding:5px;
+	 
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;;
+}
+.login-links a:hover{
+	text-decoration: none;
+	color:green;
+}
+
+.social-buton-left{
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

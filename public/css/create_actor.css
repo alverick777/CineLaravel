@@ -1,0 +1,14 @@
+
+
+/* tamaño del cajon de texto de la fecha de nacimiento de los actores */
+.tamano_fecha{
+	width:280px;
+}
+
+.tamano_nombre{
+	width:500px;
+}
+
+.tamano_pais{
+	width: 200px;
+}
